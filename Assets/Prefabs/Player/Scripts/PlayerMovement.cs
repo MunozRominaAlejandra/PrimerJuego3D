@@ -19,6 +19,14 @@ public class PlayerMovement : MonoBehaviour
     /// Indica cada cuanto tiempo debe aplicarse la fuerza
     /// </summary>
     private float intervaloTiempo;
+    /// <summary>
+    /// Representa la estrategia del movimiento
+    /// </summary>
+    private iMovementStrategy strategy;
+    /// <summary>
+    /// Representa un objeto de la clase Player
+    /// </summary>
+    private Player player;
     #endregion
 
     #region Ciclo de vida del script
@@ -28,9 +36,16 @@ public class PlayerMovement : MonoBehaviour
         fuerzaPorAplicar = new Vector3(0,0,300f);
         tiempoUltimaFuerza = 0f;
         intervaloTiempo = 2f;
+        player = new Player(5f, 2f);
+        SetStrategy(new MovimientoAcelerado());
     }
 
-    // Update is called once per frame
+    private void Update()
+    {
+        strategy.Move(transform, player);
+    }
+
+
     private void FixedUpdate()
     {
         tiempoUltimaFuerza += Time.fixedDeltaTime;
@@ -39,6 +54,14 @@ public class PlayerMovement : MonoBehaviour
             GetComponent<Rigidbody>().AddForce(fuerzaPorAplicar);
             tiempoUltimaFuerza = 0f;
         }
+    }
+    #endregion
+
+    #region Logica del Script
+
+    public void SetStrategy(iMovementStrategy strategy)
+    {
+        this.strategy = strategy;
     }
     #endregion
 }

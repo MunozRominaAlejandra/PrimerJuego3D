@@ -65,10 +65,13 @@
     <Compile Include="Assets\Prefabs\Player\Model\Patterns\iMovementStrategy.cs" />
     <Compile Include="Assets\Prefabs\Player\Model\Patterns\MovimientoAcelerado.cs" />
     <Compile Include="Assets\Prefabs\Player\Model\Patterns\iCommand.cs" />
+    <Compile Include="Assets\Prefabs\Bala\Scripts\BalaMovement.cs" />
     <Compile Include="Assets\Prefabs\Player\Model\Patterns\MovimientoLateral.cs" />
     <Compile Include="Assets\Prefabs\Player\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Prefabs\Player\Model\Patterns\Player.cs" />
     <Compile Include="Assets\Prefabs\Player\Model\Patterns\ComandoMover.cs" />
+    <Compile Include="Assets\Prefabs\Player2\Scripts\EjemploInvokes.cs" />
+    <Compile Include="Assets\Prefabs\SpawnerBalas\Scripts\SpawnBala.cs" />
     <Compile Include="Assets\Prefabs\Player\Scripts\PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>

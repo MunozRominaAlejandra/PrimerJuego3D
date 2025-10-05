@@ -16,7 +16,7 @@ public class SpawnBala : MonoBehaviour
     }
     public void Disparar()
     {
-        Instantiate(bala, transform.position, transform.rotation);
-        Destroy(bala, 5f);
+        GameObject newBala = Instantiate(bala, transform.position, transform.rotation);
+        Destroy(newBala, 5f);
     }
 }

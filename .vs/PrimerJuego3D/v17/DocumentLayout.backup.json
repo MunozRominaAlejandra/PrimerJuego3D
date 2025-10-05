@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|d:\\datos\\escritorio\\tutorial_1\\primerjuego3d\\assets\\prefabs\\bala\\scripts\\balamovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\bala\\scripts\\balamovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|d:\\datos\\escritorio\\tutorial_1\\primerjuego3d\\assets\\prefabs\\spawnerbalas\\scripts\\spawnbala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\spawnerbalas\\scripts\\spawnbala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|d:\\datos\\escritorio\\tutorial_1\\primerjuego3d\\assets\\prefabs\\player2\\scripts\\ejemploinvokes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\player2\\scripts\\ejemploinvokes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|d:\\datos\\escritorio\\tutorial_1\\primerjuego3d\\assets\\prefabs\\bala\\scripts\\balamovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\bala\\scripts\\balamovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\assets\\prefabs\\player\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\assets\\prefabs\\player\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\player\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\assets\\prefabs\\player\\model\\patterns\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\player\\model\\patterns\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SpawnBala.cs",
+              "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\SpawnerBalas\\Scripts\\SpawnBala.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\SpawnerBalas\\Scripts\\SpawnBala.cs",
+              "ToolTip": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\SpawnerBalas\\Scripts\\SpawnBala.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\SpawnerBalas\\Scripts\\SpawnBala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T21:02:09.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BalaMovement.cs",
               "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Bala\\Scripts\\BalaMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Prefabs\\Bala\\Scripts\\BalaMovement.cs",
@@ -43,19 +52,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T20:31:54.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EjemploInvokes.cs",
-              "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player2\\Scripts\\EjemploInvokes.cs",
-              "RelativeDocumentMoniker": "Assets\\Prefabs\\Player2\\Scripts\\EjemploInvokes.cs",
-              "ToolTip": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player2\\Scripts\\EjemploInvokes.cs",
-              "RelativeToolTip": "Assets\\Prefabs\\Player2\\Scripts\\EjemploInvokes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T19:30:47.312Z",
               "EditorCaption": ""
             },
             {
@@ -69,18 +65,6 @@
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T00:18:15.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "iCommand.cs",
-              "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Model\\Patterns\\iCommand.cs",
-              "RelativeDocumentMoniker": "Assets\\Prefabs\\Player\\Model\\Patterns\\iCommand.cs",
-              "ToolTip": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Model\\Patterns\\iCommand.cs",
-              "RelativeToolTip": "Assets\\Prefabs\\Player\\Model\\Patterns\\iCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T23:13:48.215Z"
             },
             {
               "$type": "Document",

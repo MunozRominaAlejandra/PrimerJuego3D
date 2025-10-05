@@ -403,10 +403,14 @@
 -analyzer:"D:/Datos/Escritorio/Universidad/Aplicaciones/6000.0.55f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Datos/Escritorio/Universidad/Aplicaciones/6000.0.55f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"D:/Datos/Escritorio/Universidad/Aplicaciones/6000.0.55f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Prefabs/Player/Model/Patterns/ComandoAcelerar.cs"
+"Assets/Prefabs/Player/Model/Patterns/ComandoMover.cs"
+"Assets/Prefabs/Player/Model/Patterns/iCommand.cs"
 "Assets/Prefabs/Player/Model/Patterns/iMovementStrategy.cs"
 "Assets/Prefabs/Player/Model/Patterns/MovimientoAcelerado.cs"
 "Assets/Prefabs/Player/Model/Patterns/MovimientoLateral.cs"
-"Assets/Prefabs/Player/Scripts/Player.cs"
+"Assets/Prefabs/Player/Model/Patterns/Player.cs"
+"Assets/Prefabs/Player/Scripts/PlayerController.cs"
 "Assets/Prefabs/Player/Scripts/PlayerMovement.cs"
 -langversion:9.0
 /deterministic

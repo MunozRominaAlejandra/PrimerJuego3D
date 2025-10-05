@@ -36,15 +36,11 @@ public class PlayerMovement : MonoBehaviour
         fuerzaPorAplicar = new Vector3(0,0,300f);
         tiempoUltimaFuerza = 0f;
         intervaloTiempo = 2f;
-        player = new Player(5f, 2f);
-        SetStrategy(new MovimientoAcelerado());
+        player = new Player(3f, 3f);
+        //SetStrategy(new MovimientoAcelerado());
     }
 
-    private void Update()
-    {
-        strategy.Move(transform, player);
-    }
-
+    
 
     private void FixedUpdate()
     {
@@ -58,7 +54,10 @@ public class PlayerMovement : MonoBehaviour
     #endregion
 
     #region Logica del Script
-
+    public void MovePlayer(float input)
+    {
+        strategy.Move(transform, player, input);
+    }
     public void SetStrategy(iMovementStrategy strategy)
     {
         this.strategy = strategy;

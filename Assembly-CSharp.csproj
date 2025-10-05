@@ -61,6 +61,7 @@
     <Analyzer Include="D:\Datos\Escritorio\Universidad\Aplicaciones\6000.0.55f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Prefabs\Camera\Scripts\FollowPlayer.cs" />
     <Compile Include="Assets\Prefabs\Player\Model\Patterns\ComandoAcelerar.cs" />
     <Compile Include="Assets\Prefabs\Player\Model\Patterns\iMovementStrategy.cs" />
     <Compile Include="Assets\Prefabs\Player\Model\Patterns\MovimientoAcelerado.cs" />

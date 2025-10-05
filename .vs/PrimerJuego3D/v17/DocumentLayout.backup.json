@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|d:\\datos\\escritorio\\tutorial_1\\primerjuego3d\\assets\\prefabs\\player\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\assets\\prefabs\\player\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\player\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|d:\\datos\\escritorio\\tutorial_1\\primerjuego3d\\assets\\prefabs\\player\\model\\patterns\\comandomover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\player\\model\\patterns\\comandomover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|d:\\datos\\escritorio\\tutorial_1\\primerjuego3d\\assets\\prefabs\\player\\model\\patterns\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\player\\model\\patterns\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\assets\\prefabs\\player\\model\\patterns\\movimientoacelerado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,35 +34,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ComandoMover.cs",
+              "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Model\\Patterns\\ComandoMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Player\\Model\\Patterns\\ComandoMover.cs",
+              "ToolTip": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Model\\Patterns\\ComandoMover.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Player\\Model\\Patterns\\ComandoMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T23:43:48.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "iCommand.cs",
+              "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Model\\Patterns\\iCommand.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Player\\Model\\Patterns\\iCommand.cs",
+              "ToolTip": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Model\\Patterns\\iCommand.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Player\\Model\\Patterns\\iCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-04T23:13:48.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MovimientoAcelerado.cs",
               "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Model\\Patterns\\MovimientoAcelerado.cs",
               "RelativeDocumentMoniker": "Assets\\Prefabs\\Player\\Model\\Patterns\\MovimientoAcelerado.cs",
               "ToolTip": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Model\\Patterns\\MovimientoAcelerado.cs",
               "RelativeToolTip": "Assets\\Prefabs\\Player\\Model\\Patterns\\MovimientoAcelerado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T00:23:14.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MovimientoLateral.cs",
               "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Model\\Patterns\\MovimientoLateral.cs",
               "RelativeDocumentMoniker": "Assets\\Prefabs\\Player\\Model\\Patterns\\MovimientoLateral.cs",
               "ToolTip": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Model\\Patterns\\MovimientoLateral.cs",
               "RelativeToolTip": "Assets\\Prefabs\\Player\\Model\\Patterns\\MovimientoLateral.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T22:10:53.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "iMovementStrategy.cs",
               "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Model\\Patterns\\iMovementStrategy.cs",
               "RelativeDocumentMoniker": "Assets\\Prefabs\\Player\\Model\\Patterns\\iMovementStrategy.cs",
@@ -72,7 +106,7 @@
               "RelativeDocumentMoniker": "Assets\\Prefabs\\Player\\Scripts\\PlayerMovement.cs",
               "ToolTip": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Scripts\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\Prefabs\\Player\\Scripts\\PlayerMovement.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T14:20:07.015Z",
               "EditorCaption": ""

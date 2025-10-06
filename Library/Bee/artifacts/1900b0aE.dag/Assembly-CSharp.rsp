@@ -405,6 +405,7 @@
 -analyzer:"D:/Datos/Escritorio/Universidad/Aplicaciones/6000.0.55f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Prefabs/Bala/Scripts/BalaMovement.cs"
 "Assets/Prefabs/Camera/Scripts/FollowPlayer.cs"
+"Assets/Prefabs/Obstacle/Scripts/ObstacleCollision.cs"
 "Assets/Prefabs/Player/Model/Patterns/ComandoAcelerar.cs"
 "Assets/Prefabs/Player/Model/Patterns/ComandoMover.cs"
 "Assets/Prefabs/Player/Model/Patterns/iCommand.cs"

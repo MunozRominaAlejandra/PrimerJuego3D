@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|d:\\datos\\escritorio\\tutorial_1\\primerjuego3d\\assets\\prefabs\\camera\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\camera\\scripts\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|d:\\datos\\escritorio\\tutorial_1\\primerjuego3d\\assets\\prefabs\\spawnerbalas\\scripts\\spawnbala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\spawnerbalas\\scripts\\spawnbala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|d:\\datos\\escritorio\\tutorial_1\\primerjuego3d\\assets\\prefabs\\bala\\scripts\\balamovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\assets\\prefabs\\bala\\scripts\\balamovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{653F8F22-5DD2-6002-FB9A-A3D899CA10D5}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\bala\\scripts\\balamovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,19 +35,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FollowPlayer.cs",
+              "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Camera\\Scripts\\FollowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Camera\\Scripts\\FollowPlayer.cs",
+              "ToolTip": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Camera\\Scripts\\FollowPlayer.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Camera\\Scripts\\FollowPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T22:34:05.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SpawnBala.cs",
               "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\SpawnerBalas\\Scripts\\SpawnBala.cs",
               "RelativeDocumentMoniker": "Assets\\Prefabs\\SpawnerBalas\\Scripts\\SpawnBala.cs",
               "ToolTip": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\SpawnerBalas\\Scripts\\SpawnBala.cs",
               "RelativeToolTip": "Assets\\Prefabs\\SpawnerBalas\\Scripts\\SpawnBala.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T21:02:09.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BalaMovement.cs",
               "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Bala\\Scripts\\BalaMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Prefabs\\Bala\\Scripts\\BalaMovement.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Assets\\Prefabs\\Bala\\Scripts\\BalaMovement.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T20:31:54.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T20:31:54.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Prefabs\\Player\\Scripts\\PlayerController.cs",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\Datos\\Escritorio\\Tutorial_1\\PrimerJuego3D\\Assets\\Prefabs\\Player\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Prefabs\\Player\\Scripts\\PlayerMovement.cs",

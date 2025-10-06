@@ -69,6 +69,7 @@
     <Compile Include="Assets\Prefabs\Bala\Scripts\BalaMovement.cs" />
     <Compile Include="Assets\Prefabs\Player\Model\Patterns\MovimientoLateral.cs" />
     <Compile Include="Assets\Prefabs\Player\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Prefabs\Obstacle\Scripts\ObstacleCollision.cs" />
     <Compile Include="Assets\Prefabs\Player\Model\Patterns\Player.cs" />
     <Compile Include="Assets\Prefabs\Player\Model\Patterns\ComandoMover.cs" />
     <Compile Include="Assets\Prefabs\Player2\Scripts\EjemploInvokes.cs" />
